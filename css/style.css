@@ -1,9 +1,12 @@
-header{
-    background-image: ;
-}
-
-
-
+#sfondopatter{
+    width: 100%;
+    height: 200px;
+    background-image:url(../img/pattern.png);
+    background-color:lightblue;
+    background-size: contain;
+    text-align: left;
+    
+    }
 
 .evidenziato{
     background-color: yellow;
